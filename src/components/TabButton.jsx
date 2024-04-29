@@ -1,5 +1,4 @@
 ﻿export default function TabButton({ children, onSelect, isSelected }) {
-  console.log('TABBUTTON COMONENT EXECUTING');
   return (
     <li>
       <button
